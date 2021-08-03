@@ -1,0 +1,22 @@
+{
+  "name": "vue-layer-mobile.js",
+  "version": "1.0.2",
+  "description": "",
+  "main": "layer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imydou/vue-layer-mobile.js.git"
+  },
+  "keywords": [
+    "layer.js"
+  ],
+  "author": "imydou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imydou/vue-layer-mobile.js/issues"
+  },
+  "homepage": "https://github.com/imydou/vue-layer-mobile.js#readme"
+}
