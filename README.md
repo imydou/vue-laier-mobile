@@ -1,8 +1,8 @@
-# vue-laier-mobile.js
+# vue-laier-mobile
 
 ```javascript
-import laier from 'vue-laier-mobile.js';
-import 'vue-laier-mobile.js/need/laier.css';
+import laier from 'vue-laier-mobile/laier';
+import 'vue-laier-mobile/need/laier.css';
 Vue.prototype.$laier = laier;
 
 

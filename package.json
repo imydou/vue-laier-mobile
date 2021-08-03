@@ -1,7 +1,7 @@
 {
-  "name": "vue-layer-mobile.js",
-  "version": "1.0.2",
-  "description": "",
+  "name": "vue-laier-mobile",
+  "version": "1.0.3",
+  "description": "```javascript import laier from 'vue-laier-mobile'; import 'vue-laier-mobile/need/laier.css'; Vue.prototype.$laier = laier;",
   "main": "layer.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
